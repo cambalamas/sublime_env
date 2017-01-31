@@ -73,7 +73,7 @@
     "word_wrap": "true",
     "line_numbers": true,
     "fold_buttons": true,
-    "rulers": [0,80,120],
+    "rulers": [80,120],
     "draw_centered": true,
     "show_encoding": true,
     "caret_style": "phase",
