@@ -1,2 +1,4 @@
-# sublime_env
-The settings and packages that i use with SublimeText3 editor,
+# cambalamas' sublime env!
+> I'll let you here a screenshot with the visual results.
+
+![visual_demo](scr_demo.png)
