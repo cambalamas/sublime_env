@@ -1,4 +1,4 @@
-# SUBLIME ENVIROMENT SETTINGS.
+# SUBLIME ENVIROMENT.
 ![visual_demo](scr_demo.png)
 
 ## INSTALLED PACKAGES.
