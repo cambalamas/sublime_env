@@ -8,7 +8,7 @@
 - SideBarEnhancements
 
 ## VISUAL SETTINGS.
-- GRUVBOX theme !
+- GRUVBOX theme **!**
 - Bold folder labels.
 - Draw minimap border.
 - Show tab close button.
@@ -19,7 +19,7 @@
 - Better windows font render.
 - Animations on tree and more.
 - Disabled fold button's fade.
-- Draw indent guides (actives).
+- Draw indent guides (_actives_).
 - Always show minimap viewport.
 - 2px caret and phase animation.
 - Word wrap by default on 80chars.
@@ -28,7 +28,7 @@
 - View lines on DistractionFree mode.
 - Visual rulers at 80chars and 120chars.
 - View UTF-8 or prefered encoding on StatusBar.
-- View gutter (with 4px margin) and line numbers.
+- View gutter (_with 4px margin_) and line numbers.
 
 
 ## NOT-VISUAL SETTINGS.
@@ -38,21 +38,23 @@
 - Ensure newline at EOF on save.
 - Don't lets copy empty selection.
 - Trim trailing whitespaces on save.
-- Hot exit. (Don't lost any change!)
+- Hot exit. (_**Don't lost any change!**_)
 - Don't close window on last tab's close.
-- A little bit quicker scroll. (1.0 to 1.2)
+- A little bit quicker scroll. (_**1.0** to **1.2**_)
 - Auto find in selection when have selected a text-block.
 - Use tabs insted of spaces, also tab stops with 4p size.
 - Auto indent, to bracket and on smart way; also detect on paste.
 
 
 ## KEYMAP SETTINGS.
-- **ctrl+d**            =   *delete line.*
-- **ctrl+alt+space**    =   *toggle SideBar.*
-- **ctrl+alt+c**        =   *sublime's console.*
-- **ctrl+shift+v**      =   *paste from history.*
-- **ctrl+enter**        =   *show command palette.*
-- **ctrl+right**        =   *move to the last char of the line.*
-- **ctrl+left**         =   *move to the first char of the line.*
-- **shift+backspace**   =   *right delete (like 'supr' or 'del' keys).*
-- **ctrl+t**            =   *find and new cursor select with the next under caret word match (default: ctrl+d).*
+|  SHORTCUT  |  ACTION  |
+|:----------:|:--------:|
+|  **ctrl+d**  |  *Delete line*  |
+|  **ctrl+alt+space**  |  *Toggle SideBar*  |
+|  **ctrl+alt+c**  |  *Sublime's console*  |
+|  **ctrl+shift+v**  |  *Paste from history*  |
+|  **ctrl+enter**  |  *Show command palette*  |
+|  **ctrl+right**  |  *Move to the last char of the line*  |
+|  **ctrl+left**  |  *Move to the first char of the line*  |
+|  **shift+backspace**  |  *Right delete (like 'supr' or 'del' keys)*  |
+|  **ctrl+t**  |  *Find and select next under caret word match*|
