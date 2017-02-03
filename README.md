@@ -32,13 +32,13 @@
 
 
 ## NOT-VISUAL SETTINGS.
-- Hot exit.
 - Save on focus lost.
 - Disable spellcheck.
 - Never prompt for file reload.
 - Ensure newline at EOF on save.
 - Don't lets copy empty selection.
 - Trim trailing whitespaces on save.
+- Hot exit. (Don't lost any change!)
 - Don't close window on last tab's close.
 - A little bit quicker scroll. (1.0 to 1.2)
 - Auto find in selection when have selected a text-block.
@@ -47,12 +47,12 @@
 
 
 ## KEYMAP SETTINGS.
-- ctrl+d            =   delete line.
-- ctrl+alt+space    =   toggle SideBar.
-- ctrl+alt+c        =   sublime's console.
-- ctrl+shift+v      =   paste_from_history.
-- ctrl+enter        =   show command palette.
-- ctrl+right        =   move to the last char of the line.
-- ctrl+left         =   move to the first char of the line.
-- shift+backspace   =   right delete (like 'supr' or 'del' keys).
-- ctrl+t            =   find and new cursor select with the next under caret word match (default: ctrl+d).
+- **ctrl+d**            =   *delete line.*
+- **ctrl+alt+space**    =   *toggle SideBar.*
+- **ctrl+alt+c**        =   *sublime's console.*
+- **ctrl+shift+v**      =   *paste from history.*
+- **ctrl+enter**        =   *show command palette.*
+- **ctrl+right**        =   *move to the last char of the line.*
+- **ctrl+left**         =   *move to the first char of the line.*
+- **shift+backspace**   =   *right delete (like 'supr' or 'del' keys).*
+- **ctrl+t**            =   *find and new cursor select with the next under caret word match (default: ctrl+d).*
