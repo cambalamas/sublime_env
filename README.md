@@ -1,5 +1,6 @@
 # SUBLIME ENVIROMENT.
 > First install [PackageControl](https://packagecontrol.io/ "The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date."), then copy this settings and wait ~ 30secs.
+
 ![visual_demo](scr_demo.png)
 
 ## INSTALLED PACKAGES.
