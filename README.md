@@ -56,8 +56,11 @@
 |  **ctrl+alt+c**  |  *Sublime's console*  |
 |  **ctrl+shift+v**  |  *Paste from history*  |
 |  **ctrl+enter**  |  *Show command palette*  |
+|  **alt+m**  |  *Sweet minimap toggle*  |
 |  **ctrl+shift+d**  |  *Duplicate, but with "\n"*  |
 |  **ctrl+right**  |  *Move to the last char of the line*  |
 |  **ctrl+left**  |  *Move to the first char of the line*  |
 |  **shift+backspace**  |  *Right delete (like 'supr' or 'del' keys)*  |
 |  **ctrl+t**  |  *Find and select next under caret word match*  |
+|  **ctrl+shift+right**  |  *Move to the last char of the line and select the trail*  |
+|  **ctrl+shift+right**  |  *Move to the first char of the line and select the trail*  |
