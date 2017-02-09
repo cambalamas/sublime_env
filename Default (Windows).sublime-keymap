@@ -6,6 +6,7 @@
 	{ "keys": ["ctrl+alt+space"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
 	{ "keys": ["ctrl+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line", "args": {"force_lines": true}},
 	{ "keys": ["ctrl+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 	{ "keys": ["ctrl+enter"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
 	{ "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
