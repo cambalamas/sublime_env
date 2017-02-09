@@ -1,3 +1,5 @@
+# https://gist.github.com/homm/1261735#file-duplicate_line-py
+
 import sublime, sublime_plugin
 
 class DuplicateLineCommand(sublime_plugin.TextCommand):
