@@ -57,6 +57,8 @@
 |  **ctrl+shift+v**  |  *Paste from history*  |
 |  **ctrl+enter**  |  *Show command palette*  |
 |  **alt+m**  |  *Sweet minimap toggle*  |
+|  **ctrl+shift+c**  |  *Toggle line comment*  |
+|  **ctrl+shift+x**  |  *Toggle block comment*  |
 |  **ctrl+shift+d**  |  *Duplicate, but with "\n"*  |
 |  **ctrl+right**  |  *Move to the last char of the line*  |
 |  **ctrl+left**  |  *Move to the first char of the line*  |
