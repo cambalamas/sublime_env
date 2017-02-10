@@ -37,14 +37,14 @@
 - Save on focus lost.
 - Disable spellcheck.
 - Never prompt for file reload.
-- Ensure newline at EOF on save.
 - Don't lets copy empty selection.
 - Trim trailing whitespaces on save.
 - Hot exit. (_**Don't lost any change!**_)
-- Don't close window on last tab's close.
 - A little bit quicker scroll. (_**1.0** to **1.2**_)
-- Auto find in selection when have selected a text-block.
+- Don't close window on last tab's close.
 - Use tabs insted of spaces, also tab stops with 4p size.
+- Auto find in selection when have selected a text-block.
+- Ensure newline at EOF on save. (_setting to **Unix**, thus **LF**_)
 - Auto indent, to bracket and on smart way; also detect on paste.
 
 
