@@ -64,7 +64,7 @@
     "gruvbox_sidebar_comfortable": true,
     "gruvbox_sidebar_font_size_13": true,
     "gruvbox_statusbar_font_size_11": true,
-	"theme": "gruvbox (Dark) (Hard).sublime-theme",
+	//"theme": "gruvbox (Dark) (Hard).sublime-theme",
     "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).tmTheme",
 
 // visual details
