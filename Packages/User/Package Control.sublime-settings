@@ -1,5 +1,3 @@
-// Made with ♥ by cambalamas for Sublime.
-
 {
 	"bootstrapped": true,
 	"in_process_packages":
@@ -7,12 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Dockerfile Syntax Highlighting",
 		"gruvbox",
 		"More Layouts",
 		"Open URL",
 		"Package Control",
+		"PowerShell",
 		"SideBarEnhancements",
 		"TabsExtra"
 	]
 }
-
