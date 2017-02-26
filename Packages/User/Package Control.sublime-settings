@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Clickable URLs",
 		"Dockerfile Syntax Highlighting",
+		"Git Config",
+		"GitGutter",
+		"GitSyntaxes",
 		"gruvbox",
 		"More Layouts",
 		"Open URL",
