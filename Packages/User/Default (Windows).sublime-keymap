@@ -10,6 +10,7 @@
 	{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
 	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line", "args": {"force_lines": true} },
+	{ "keys": ["alt+shift+d"], "command": "duplicate_line", "args": {"force_lines": false} },
 	{ "keys": ["ctrl+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 	{ "keys": ["ctrl+shift+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
 	{ "keys": ["ctrl+shift+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },

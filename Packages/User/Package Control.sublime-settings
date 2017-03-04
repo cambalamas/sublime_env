@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Clickable URLs",
 		"Dockerfile Syntax Highlighting",
@@ -12,7 +13,6 @@
 		"GitGutter",
 		"GitSyntaxes",
 		"gruvbox",
-		"Markdown Slideshow",
 		"MarkdownLivePreview",
 		"More Layouts",
 		"Open URL",
