@@ -6,20 +6,18 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"AdvancedNewFile",
 		"AutoHotkey",
-		"Clickable URLs",
 		"Dockerfile Syntax Highlighting",
 		"Git Config",
 		"GitGutter",
 		"GitSyntaxes",
 		"gruvbox",
-		"MarkdownLivePreview",
 		"More Layouts",
-		"Open URL",
 		"Package Control",
 		"PowerShell",
+		"PyQt5 Completions",
 		"SideBarEnhancements",
-		"TabsExtra"
+		"TabsExtra",
+		"VimL"
 	]
 }

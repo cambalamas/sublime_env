@@ -12,7 +12,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.tmTheme",
-	"copy_with_empty_selection": false,
+	"copy_with_empty_selection": true,
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": true,
@@ -32,7 +32,7 @@
 	[
 		"directwrite"
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -42,6 +42,7 @@
 	],
 	"indent_guide_options":
 	[
+		"draw_normal",
 		"draw_active"
 	],
 	"indent_to_bracket": true,
@@ -62,7 +63,6 @@
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
-	"scroll_speed": 0.1,
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
