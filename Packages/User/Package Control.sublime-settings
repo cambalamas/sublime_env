@@ -7,17 +7,19 @@
 	[
 		"A File Icon",
 		"AutoHotkey",
+		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"Git Config",
 		"GitGutter",
-		"GitSyntaxes",
-		"gruvbox",
 		"More Layouts",
+		"One Dark Material - Theme",
 		"Package Control",
 		"PowerShell",
 		"PyQt5 Completions",
+		"Python Completions",
 		"SideBarEnhancements",
 		"TabsExtra",
+		"Tomorrow Night Italics Color Scheme",
 		"VimL"
 	]
 }

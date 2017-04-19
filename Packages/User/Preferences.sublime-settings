@@ -11,13 +11,13 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Birds_of_Paradise.tmTheme",
 	"copy_with_empty_selection": true,
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"drag_text": true,
-	"draw_centered": false,
+	"draw_centered": true,
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,
 	"enable_hexadecimal_encoding": true,
@@ -27,18 +27,15 @@
 	"fallback_encoding": "Western (Windows 1252)",
 	"find_selected_text": true,
 	"fold_buttons": true,
-	"font_face": "Consolas",
-	"font_options":
-	[
-		"directwrite"
-	],
+	"font_face": "Input",
 	"font_size": 11,
 	"gutter": true,
-	"highlight_line": true,
+	"highlight_line": false,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -62,7 +59,7 @@
 		120
 	],
 	"save_on_focus_lost": true,
-	"scroll_past_end": false,
+	"scroll_past_end": true,
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
