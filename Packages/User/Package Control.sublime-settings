@@ -6,20 +6,27 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
 		"AutoHotkey",
+		"AutoPEP8",
+		"ColorPicker",
 		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
+		"DoxyDoxygen (evolution)",
 		"Git Config",
 		"GitGutter",
 		"More Layouts",
-		"One Dark Material - Theme",
 		"Package Control",
 		"PowerShell",
+		"Predawn",
 		"PyQt5 Completions",
-		"Python Completions",
+		"Python Fix Imports",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"TabsExtra",
-		"Tomorrow Night Italics Color Scheme",
+		"Theme - Brogrammer",
 		"VimL"
 	]
 }

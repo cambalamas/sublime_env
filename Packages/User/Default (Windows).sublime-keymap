@@ -2,7 +2,7 @@
 
 [
 	{ "keys": ["alt+m"], "command": "toggle_minimap" },
-	{ "keys": ["ctrl+t"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+g"], "command": "find_under_expand" },
 	{ "keys": ["shift+backspace"], "command": "right_delete" },
 	{ "keys": ["ctrl+alt+space"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
@@ -15,6 +15,7 @@
 	{ "keys": ["ctrl+shift+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
 	{ "keys": ["ctrl+shift+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },
 	{ "keys": ["ctrl+enter"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+	{ "keys": ["ctrl+shift+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
 	{ "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
 	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 ]
